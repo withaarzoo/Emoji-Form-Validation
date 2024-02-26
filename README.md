@@ -1,6 +1,6 @@
 # Emoji Form Validation
 
-This simple HTML and CSS code snippet showcases a form field with password validation, accompanied by emoji feedback based on the entered password's validity. The form validates whether the password input meets the requirement of being at least six characters long.
+This simple HTML and CSS code snippet showcases a form field with password validation, accompanied by emoji feedback based on the entered password's validity. The form validates whether the password input meets the requirement of being at least six characters long .
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Emoji-Form-Validation/assets/59678435/e16f2920-58dd-4a1a-b6d2-20499b11d5bf)
